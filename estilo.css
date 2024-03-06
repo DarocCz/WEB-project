@@ -1,0 +1,13 @@
+body{
+    background-image: url(imagen-archivo-libros_69.jpg);;
+    
+    padding: 5%;
+}
+
+button{
+    padding: 3%;
+}
+
+.container {
+    background-color: rgba(90, 139, 182, 0.512);
+}
